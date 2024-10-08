@@ -15,7 +15,7 @@ header{
     margin: 20px 10px;
 }
 
-.cartao__conteudohoover{
+.cartao__conteudo:hover{
     transform: scale(1.01);
 }
 
