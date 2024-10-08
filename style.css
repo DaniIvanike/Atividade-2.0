@@ -5,7 +5,7 @@ header{
     padding: 10px;
 }
     
-.cartao_conteudo{
+.cartao__conteudo{
     padding: 20px;
     border: 1px solid #B3093F ;
     border-radius: 2px;
@@ -15,11 +15,11 @@ header{
     margin: 20px 10px;
 }
 
-.cartao_conteudohoover{
+.cartao__conteudohoover{
     transform: scale(1.01);
 }
 
-.cartao_conteudo_resposta{
+.cartao__conteudo_resposta{
     display: none;
     text-align: center;
     padding: 20px;
