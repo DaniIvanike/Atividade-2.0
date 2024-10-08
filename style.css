@@ -1,0 +1,27 @@
+header{
+    background-color: #A5BEFA ;
+    text-align: center;
+    font-size: 1.4vw ;
+    padding: 10px;
+}
+    
+.cartao_conteudo{
+    padding: 20px;
+    border: 1px solid #B3093F ;
+    border-radius: 2px;
+    box-shadow: 0 4px 6px #451531 ;
+    transition: transform 0.2s;
+    background-color: rgb(255, 255, 255);
+    margin: 20px 10px;
+}
+
+.cartao_conteudohoover{
+    transform: scale(1.01);
+}
+
+.cartao_conteudo_resposta{
+    display: none;
+    text-align: center;
+    padding: 20px;
+    background-color: #64B7CC;
+}
