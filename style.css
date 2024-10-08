@@ -11,7 +11,7 @@ header{
     border-radius: 2px;
     box-shadow: 0 4px 6px #451531 ;
     transition: transform 0.2s;
-    background-color: #FF3877;
+    background-color:  #64B7CC;
     margin: 20px 10px;
 }
 
@@ -23,5 +23,5 @@ header{
     display: none;
     text-align: center;
     padding: 20px;
-    background-color: #64B7CC;
+    background-color: #FF3877;
 }
