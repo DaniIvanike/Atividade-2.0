@@ -13,6 +13,7 @@ header{
     transition: transform 0.2s;
     background-color:  #91d0e0;
     margin: 20px 10px;
+    font-size: 1.2vw;
 }
 
 .cartao__conteudo:hover{
