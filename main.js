@@ -1,7 +1,7 @@
-function mostraResposta (cartao_conteudo){
-    const resposta = cartao_conteudo.querySelector('.cartao_conteudo_resposta')
+function mostraResposta (card){
+    const resposta = card.querySelector('.cartao_conteudo_resposta')
 
-    if (resposta.style.display) === 'none'){
+    if (resposta.style.display === 'none'){
         resposta.style.display = 'block'
     }
     else{
